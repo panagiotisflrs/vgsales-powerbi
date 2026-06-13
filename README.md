@@ -188,4 +188,4 @@ vgsales-powerbi/
 ## Related Project
 
 SQL analysis of the same dataset:
-[vgsales-sql-analysis](https://github.com/panagiotisflrs/vgsales-sql-analysis)
+[vgsales-sql-analysis](https://github.com/panagiotisflrs/video-game-sales-analysis.git)
