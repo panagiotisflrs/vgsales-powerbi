@@ -146,28 +146,6 @@ and preserving correct chronological order across all pages.
 
 ---
 
-## Project Structure
-
-```text
-vgsales-powerbi/
-│
-├── README.md
-├── dataset/
-│   └── vgsales.csv
-├── dashboard/
-│   └── vgsales_dashboard.pbix
-└── screenshots/
-    ├── 01_global_sales.png
-    ├── 02_sales_percentage.png
-    ├── 03_regional_sales_genre.png
-    ├── 04_platforms.png
-    ├── 05_genre_trends.png
-    ├── 06_publishers.png
-    └── 07_trends.png
-```
-
----
-
 ## How to Open
 
 1. Download `dashboard/vgsales_dashboard.pbix`
